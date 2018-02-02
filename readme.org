@@ -1,0 +1,19 @@
+* What is CNB coin?
+It's an erc20 coin created by 老社, and cooperated by zhuzi.
+Please refer to [[http://chuiniu.io][chuiniu.io]] for more infomation.
+* What is cnbot?
+cnbot(ChuiNiu roBOT) is a robot based on [[https://mixin.one][Mixin]] platform.
+
+"Chuiniu" is Chinese pinyin of "吹牛", which means brag or talking big in English.
+* What's the purpose of cnbot?
+Mostly, the cnbot will be used to interact with fans of chuiniubi
+coin. It will be the first robot work for chatroom CNB高端娱乐群.
+
+Planed features:
+1. Periodically check the CNB coin holding number of each members, if
+   find any member owned less then 1 billion CNB coins, the robot will
+   compensate the number to 1 billion.
+2. Members can take a brag in the chatroom, and the robot will offer rewards.
+3. Members send robot some CNB coins, the robot will perform a brag for everyone.
+* Any idea for cnbot or CNB coin?
+Please send your proposal to /tree.newbee@outlook.com/.
